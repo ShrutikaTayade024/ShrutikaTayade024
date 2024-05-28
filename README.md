@@ -2,7 +2,7 @@
 <h3 align="center">A passionate for Software Tester</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-- 🔭 I’m currently working on * Selinium Project**
+- 🔭 I’m currently working on **Selinium Project**
 
 - 🌱 I’m currently learning **Java, Selinium, Mannual Testing**
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shrutika tayade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutika tayade" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/shrutika tayade](https://www.linkedin.com/in/shrutika-tayade-79a342287/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutika tayade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,5 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutikatayade024&show_icons=true&locale=en&layout=compact" alt="shrutikatayade024" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutikatayade024&show_icons=true&locale=en" alt="shrutikatayade024" /></p>
-.
