@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrutika</h1>
-<h3 align="center">A passionate for Software Tester</h3>
+<h3 align="center">Aspiring QA Engineer | Passionate about Automation Testing with Java Selenium | Ensuring Software Quality through Detailed and Efficient Testing</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 - 🔭 I’m currently working on **Selinium Project**
