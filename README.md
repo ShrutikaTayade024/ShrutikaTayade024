@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Selinium Project**
 
-- 🌱 I’m currently learning **Java, Selinium, Mannual Testing , Automation Testing **
+- 🌱 I’m currently learning **Java, Selinium, Mannual Testing , Automation Testing**
 
 - 📫 How to reach me **Shrutikatayade024@gmail.com**
 
