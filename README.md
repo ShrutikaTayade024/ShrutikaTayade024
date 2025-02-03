@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shrutika</h1>
-<h3 align="center">Aspiring QA Engineer | Passionate about Automation Testing with Java Selenium | Ensuring Software Quality through Detailed and Efficient Testing</h3>
+<h3 align="center"> Aspiring Software Developer with a strong focus on Java | Object-Oriented Programming (OOP) | Web Development technologies. </h3>
+
+<h5>I'm passionate about building dynamic, user-friendly applications and ensuring high-quality code. I specialize in Java-based technologies like JSP, Servlets, and test automation using Selenium, and I'm also exploring frameworks like Angular. Here, I share my personal projects, contributions, and code samples that reflect my journey of continuous learning and growth. Feel free to explore my repositories, give feedback, or collaborate on exciting open-source projects!</h5>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-- 🔭 I’m currently working on **Selinium Project**
+- 🔭 I’m currently working on **Web Project**
 
-- 🌱 I’m currently learning **Java, Selinium, Mannual Testing , Automation Testing**
-
+- 🌱 I’m currently learning **Java, Web Development, JSP , Servlet,Spring ,Springboot, Selinium, Mannual Testing , Automation Testing**
+,
 - 📫 How to reach me **Shrutikatayade024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
